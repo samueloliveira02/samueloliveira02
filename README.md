@@ -22,12 +22,4 @@
   <a href="https://www.linkedin.com/in/samuel-oliveira-a625382b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/samueloliveira02/samueloliveira02/output/snake.svg" alt="Snake animation" />
-
-###
   
